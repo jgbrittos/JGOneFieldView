@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JGOneFieldView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of JGOneFieldView.'
+  s.summary          = 'Awesome UIView with one title, one field and one button! Amazing!'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,15 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  This is a magnificent Pod that creates a UIView with just one title, one field and one button that can be edited in interface builder
                        DESC
 
-  s.homepage         = 'https://github.com/Joao Gabriel de Britto e Silva/JGOneFieldView'
+  s.homepage         = 'https://github.com/jgbrittos/JGOneFieldView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Joao Gabriel de Britto e Silva' => 'jgbrittos@gmail.com' }
-  s.source           = { :git => 'https://github.com/Joao Gabriel de Britto e Silva/JGOneFieldView.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/jgbrittos/JGOneFieldView.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 

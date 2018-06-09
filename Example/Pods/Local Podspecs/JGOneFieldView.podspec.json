@@ -1,0 +1,22 @@
+{
+  "name": "JGOneFieldView",
+  "version": "0.1.0",
+  "summary": "A short description of JGOneFieldView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Joao Gabriel de Britto e Silva/JGOneFieldView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Joao Gabriel de Britto e Silva": "jgbrittos@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Joao Gabriel de Britto e Silva/JGOneFieldView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JGOneFieldView/Classes/**/*"
+}

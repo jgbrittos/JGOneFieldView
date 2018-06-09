@@ -1,0 +1,16 @@
+PODS:
+  - JGOneFieldView (0.1.0)
+
+DEPENDENCIES:
+  - JGOneFieldView (from `../`)
+
+EXTERNAL SOURCES:
+  JGOneFieldView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JGOneFieldView: 19f28647efc3725c89e8f1c21d48dbe66622e8e6
+
+PODFILE CHECKSUM: 70ea22b5e86579bc0e2ce70a10ea31487929f9cf
+
+COCOAPODS: 1.5.3

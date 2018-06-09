@@ -1,0 +1,6 @@
+framework module JGOneFieldView {
+  umbrella header "JGOneFieldView-umbrella.h"
+
+  export *
+  module * { export * }
+}
