@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JGOneFieldView_Tests' do
+  pod 'JGOneFieldView', :path => '../'
+  
+  
+end
